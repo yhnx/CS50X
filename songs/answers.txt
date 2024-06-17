@@ -1,0 +1,3 @@
+add up the numbers for energy, happiness, and danceability for all the 100 songs, and then divide them by 100 to get the average.
+
+it does not consider when and where the listener listened to their music. possible ways of finding the audio aura more correctly are using more numbers, such as speed, volume, mode, key, and acousticness, to describe the songs and their feelings and also use data like time points to map these values within the year to have a better schematic of the moods and feelings the user has gone through

@@ -1,0 +1,11 @@
+sort1 uses: bubble sorting
+
+How do you know?: timing to sort the sorted text file is smaller than timings for random and reversed text files
+
+sort2 uses: merge sorting
+
+How do you know?: the timings to sort random, sorted and reversed text files are quite similar and generally fast
+
+sort3 uses: selection sorting
+
+How do you know?: the timings to sort random, sorted and reversed text files are similar and generally slower

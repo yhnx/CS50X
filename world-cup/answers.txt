@@ -1,0 +1,18 @@
+Times:
+
+10 simulations: 0m0.030s
+100 simulations: 0m0.030s
+1000 simulations: 0m0.039s
+10000 simulations: 0m0.128s
+100000 simulations: 0m0.984s
+1000000 simulations: 0m9.495s
+
+Questions:
+
+Which predictions, if any, proved incorrect as you increased the number of simulations?:
+
+during the small number of simulations, the answrs tend to be very uncertain, changing as you di it at different different times, after around the 1000 simulation range the answers became consistent
+
+Suppose you're charged a fee for each second of compute time your program uses.
+After how many simulations would you call the predictions "good enough"?: 1000 a the results got more consistent, hence when it comes for  the performance to accuracy ratio, 1000vsimulations giv e a good enough prediction of the actual tournament
+
